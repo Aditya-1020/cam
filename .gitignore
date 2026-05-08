@@ -1,2 +1,6 @@
 dump/
 .vscode/
+*.log
+*.vcd
+*.jou
+*.pb
