@@ -4,4 +4,4 @@ dump/
 *.vcd
 *.jou
 *.pb
-xsim.dir/
+xsim.dir
